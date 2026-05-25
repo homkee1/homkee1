@@ -58,17 +58,6 @@
   <img alt="Python" src="https://img.shields.io/badge/Python-3777ab?logo=python&logoColor=white&style=flat">
 </p>
 
-## Моя статистика
-
-<p align="center">
-  <img width="43%" align="top" src="https://github-readme-stats.vercel.app/api?username=homkee1&count_private=true&show_icons=true&title_color=512BD4&icon_color=512BD4&text_color=c9d1d9&bg_color=0d1117&border_color=30363d" />
-  <span>&nbsp;&nbsp;</span>
-  <img width="43%" align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=homkee1&title_color=512BD4&icon_color=512BD4&text_color=c9d1d9&background=0d1117&border=30363d&stroke=512BD4&ring=8b44e0&fire=8b44e0&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e" />
-</p>
-<p align="center">
-  <img width="43%" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=homkee1&show_icons=true&layout=compact&cache_seconds=1800&langs_count=8&count_private=true&show_icons=true&title_color=c9d1d9&icon_color=c9d1d9&text_color=c9d1d9&bg_color=0d1117&border_color=30363d" />
-</p>
-
 #
 
 <img align="center" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhomkee1&count_bg=%23000000&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false" alt="visitors" />
